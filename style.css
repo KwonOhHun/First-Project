@@ -1,0 +1,58 @@
+a {
+  color:black;
+  text-decoration: none;
+}
+.maintitle {
+  color: white;
+}
+h1 {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  margin:0;
+  padding: 20px;
+  padding-bottom: 0px;
+  background-color: green;
+}
+.aboutROB{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 17px;
+  border-bottom: 2px solid gray;
+  background-color: green;
+}
+h3{
+  border-top: 2px solid lightgray;
+  font-size: 35px;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+}
+body {
+  font-size: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#desript{
+  border-top: 2px solid lightgray;
+  padding-left: 25px;
+}
+#grid {
+  display: grid;
+  grid-template-columns:425px 1fr;
+}
+#booklist{
+  border-right: 2px solid lightgray;
+}
+#category li {
+  font-size: 20px;
+  font-weight: bold;
+}
+#Welcome {
+  font-size: 15px;
+}
